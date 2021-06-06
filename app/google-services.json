@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715620108326",
+    "project_id": "spottifyclone",
+    "storage_bucket": "spottifyclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715620108326:android:4b949abbcd9c124afbbee7",
+        "android_client_info": {
+          "package_name": "com.example.spottifyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715620108326-vitc8r1umhchklc1970lt9ftp40h7lss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnmI6LUUS51Fw8yCr9XlevwH3cZI1XIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715620108326-vitc8r1umhchklc1970lt9ftp40h7lss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
